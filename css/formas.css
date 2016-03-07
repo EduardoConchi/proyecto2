@@ -1,0 +1,17 @@
+.vector-1 {
+	background-image: url('../assets/vector-1.png');
+	background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    box-sizing: border-box;
+    padding: 1%;
+}
+
+.vector-2 {
+    background-image: url('../assets/vector-2.png');
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    box-sizing: border-box;
+    padding: 1%;
+}
