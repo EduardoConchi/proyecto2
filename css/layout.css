@@ -87,6 +87,26 @@ li {
     display: none;
 }
 
+.posicion2 {
+    margin-top: 55px;
+}
+
+.img-small {
+    width: 80%; 
+}
+
+.input {
+    width: 100%;
+    -webkit-border-radius: 4px;
+}
+
+.input_text{
+    width: 100%;
+    height: 150px;
+    -webkit-border-radius: 10px;
+}
+
+
 @media screen and (max-width: 1000px) {
     .ordenador {
         display: block;
@@ -169,7 +189,8 @@ li {
     }
 
     .col-4,
-    .col-6 {
+    .col-6,
+    .col-5 {
         -ms-flex-preferred-size: 300px;
         -webkit-flex-basis: 300px;
         flex-basis: 300px;
